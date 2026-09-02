@@ -1,0 +1,6722 @@
+[
+  {
+    "query_type": "EAN",
+    "identifier": "6858673020252",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T12:06:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010993602001",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T12:13:16"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0072632859165",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T12:29:23"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033170514039",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T13:30:23"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "099419191188",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T13:32:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "077347823371",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T13:32:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "787926107258",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T13:48:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164163674",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T13:51:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660586968",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T13:51:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164391855",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T13:53:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "696734328628",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:02:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "66623074675",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:17:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660829171",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:24:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1000001167718",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:25:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "634753163103",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:27:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "45557146221",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:28:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "045557146221",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:28:37"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164197136",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:30:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "653569812937",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T14:30:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4837112356482",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:06:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04837112356482",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:06:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33170646945",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:35:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033170646945",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:35:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "196271874201",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:37:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "62208117003",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:37:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010994162863",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:39:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "501099412984",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:40:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660880240",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:42:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33586031342",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:46:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660863922",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:47:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "787926171594",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:48:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "45557343897",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:48:22"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "045557343897",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:48:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "798525496643",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:50:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164359176",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:52:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164359176",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:52:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885462155280",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:54:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33170668749",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:54:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33170558460",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:54:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509331505",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:55:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "630509662562",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:57:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "3296580822683",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:57:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03296580822683",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:57:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885860860496",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:57:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "795418228350",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:58:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4570118107619",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:58:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660551287",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T15:58:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "3296580377923",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:00:28"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03296580377923",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:00:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4573102590053",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:00:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660880288",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:01:52"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04549660880288",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:01:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "300713181196",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:02:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "734548109924",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:03:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "887961980875",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:04:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164819182",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:04:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164819182",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:04:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "3701405813352",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:05:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660542223",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:06:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04549660542223",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:06:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4573292170509",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:08:07"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033170749356",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:09:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4907953759879",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:09:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735058365",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:09:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33170571780",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:10:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "191726004172",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:10:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "745938760397",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:11:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "798627418659",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:11:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "810158832602",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:11:44"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4570118118929",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:11:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04570118118929",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:11:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5051892188746",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:20:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "745559250130",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:20:22"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509804450",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:20:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "715938269961",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:20:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "638339666989",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:22:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885132598959",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:22:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702017415277",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:23:23"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017415277",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:23:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "791266103542",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:23:32"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "627100006499",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:23:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010996226181",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:24:02"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885961083886",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:24:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "769294103971",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:25:29"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "572050031889",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:25:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "616268784394",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:25:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885139201067",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:26:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "54200036901",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:27:29"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885842523814",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:27:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783719866340",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:27:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "610074909811, 610074909828, 673419231589, 719040514407, 743181610247, 744424873337, 761315124859",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:28:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "809787028821",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:29:57"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "769498914960",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:31:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "899998643685",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:31:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "746550290385",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:32:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016368338",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:33:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885834309761",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:33:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "74299236174",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:34:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885785868959",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:35:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "785924791936",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:35:19"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885874190244",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:35:20"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0194735231829",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:38:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885631052006",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0638339666989",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0717353316794",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:42"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0798257302113",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0802590779799",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0802590803098",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885132598959",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885167192511",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885196000498",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885254259837",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885362784689",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885819271427",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885852370866",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885854835868",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:56:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885977871972",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5054186891988",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5055114363614",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5369802608339",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5790382584131",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5790382595434",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5790382725213",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5790382725220",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5898520392454",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6007795100803",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T16:57:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6833566575552",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T17:09:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0065541948167",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T17:09:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885335325581",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T17:09:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010996280862",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-19T17:12:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "681326928225",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-20T09:58:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295516715",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-20T10:54:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289689069",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-20T10:54:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8944444225488",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-20T10:54:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0783719866340",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-20T10:55:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0630509386932",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-20T11:20:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4570118259493",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:18:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735112111",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:21:40"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "810158833197",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:23:38"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010993858347",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:23:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "887961628739",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:24:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4570118107756",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:39:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164162943",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:45:16"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735308019",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:48:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "195166166674",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T09:49:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961866117",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T10:04:16"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "810158831438",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T10:11:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010993918393",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T10:11:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010993918393",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T10:11:41"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164388381",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T10:12:04"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164388381",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T10:12:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783515884708",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:16:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726405955",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:16:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "811039037888",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:22:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "191726386537",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:25:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419339094",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:27:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419357388",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:29:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702017153438",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:32:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419375375",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:34:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "667649315164",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:36:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419357043",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T11:36:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509910892",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:01:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0718349338516",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:05:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "718349338516",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:05:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996206688",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:06:53"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419265812",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:10:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509419944",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:10:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0887961388077",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:11:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0630509498932",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:12:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509498932",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:12:41"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0194735361878",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:16:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735361878",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:16:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419239813",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:17:22"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419264495",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:18:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0630509833498",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:19:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419302890",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T12:22:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419341240",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T13:35:59"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735192397",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T13:42:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419357388",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T13:47:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419357388",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T13:47:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419426855",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T13:56:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0887961690149",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T13:58:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419354943",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T13:59:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419189729",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:00:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419302418",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:01:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0700304046529",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:02:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885139895242",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:02:59"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419248143",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:04:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0676281617727",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:04:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961883190",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:05:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "659213193858",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:05:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885304314684",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:06:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017462820",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:07:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8850226545982",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:08:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735109364",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:08:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0077344737671",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:08:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "077344737671",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:08:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735011636",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:08:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885451598043",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:09:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419304146",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:09:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419362580",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:11:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419374248",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:11:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961355291",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:12:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419341776",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:12:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419338868",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:12:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289692519",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:13:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5057065402992",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:13:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419765831",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:14:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "195166181639",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:14:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419338820",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:15:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0792463532159",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:15:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "792463532159",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:15:13"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "809787028340",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:15:22"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419341219",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:15:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0740647777759",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:16:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516795696305",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:16:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4804309209449",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:16:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8942856047223",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:16:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419355148",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:16:21"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509906581",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:16:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419320191",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:19:34"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016618396",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:22:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0799783772104",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:26:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0033170492931",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:28:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885919745323",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:31:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419339933",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:34:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419311885",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:35:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419339094",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:35:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5054242382726",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:49:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419282734",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:51:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010993858248",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:54:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787926110081",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:56:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419281737",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:56:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "74299129988",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:57:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0634482398593",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T14:58:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787926106534",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:00:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419281768",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:04:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419250399",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:05:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419011143",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:09:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419266390",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:10:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0076930404195",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:10:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509693382",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:21:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0613460971294",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:23:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016603842",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:44:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419370677",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:45:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0793945677931",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:49:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419339865",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:56:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419319676",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:56:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419381390",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:57:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0794819660240",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-08-31T15:57:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996367990",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:29:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "681147085572",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:29:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "193052087010",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:29:53"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "193052078476",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:29:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996329318",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:30:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996381828",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:30:23"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996294968",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:30:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961857535",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:30:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726456131",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:31:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "681147034532",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:31:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996305091",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:32:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996290250",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:32:22"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509899739",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:32:43"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164886443",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:32:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735015603",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:33:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "681147030367",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:33:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735271719",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:33:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164896206",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:33:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "195166210568",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:33:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961573190",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:33:57"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164882896",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:34:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164887983",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:34:19"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164882889",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:34:21"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996314574",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:34:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "192995432789",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:34:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "195166294698",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:34:57"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787793282416",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:34:59"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783719740978",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:35:02"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164895506",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:35:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "195166164588",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:35:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "778988492451",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:36:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726396819",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:36:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "781624424358",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:36:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010993960040",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:37:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996109156",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:37:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "193052076021",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:38:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735308071",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:38:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961778335",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:38:32"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "192995276390",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:38:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996287281",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:38:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996256959",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:38:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787926163636",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:38:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735371174",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:39:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "196271374619",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:41:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "810158832695",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:41:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799314005",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:42:07"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04573102652676",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:42:28"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "698887824880",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:42:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04894680033351",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:42:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "801390122057",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:43:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164894653",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:43:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735365906",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:43:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726410409",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:43:53"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164881561",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:44:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726710332",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:44:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "050109961962",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:45:07"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "192995432796",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:45:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "270841789444",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:45:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660699514",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:46:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783495446040",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:47:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "696748439747",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:48:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "852277115846",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:48:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996142740",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:48:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010993847570",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:48:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885887035761",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:49:27"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996201973",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:49:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03701405803827",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:50:32"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "193052056436",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:50:40"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735127740",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:50:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "782361331657",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:51:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "656103100569",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:51:03"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010993621644",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:51:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03701405807726",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:52:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03701405815370",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:52:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "645760977997",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:52:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03701405811655",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:52:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04549660699712",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:53:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735032907",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:54:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164291780",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:54:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04570118085047",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:54:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "696748739694",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:54:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "656103103119",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:55:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "698887837361",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:55:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726007555",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:55:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961882605",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:55:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "745559267732",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:55:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735125012",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:55:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996237798",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:56:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735205172",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:57:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03701405812317",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:57:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735123209",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:57:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961517415",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:58:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787926173437",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:58:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "887961593600",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:59:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "741012343593",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:59:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961966145",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T09:59:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961830422",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:00:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010996122971",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:00:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "699858103317",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:01:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033586032080",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:01:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509289509",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:01:52"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799903834",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:02:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "686294489310",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:02:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783419713524",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:02:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "745559250147",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:02:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885451586200",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:03:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "680270719002",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:03:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "001223202127",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:04:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164496710",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:04:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "716878075803",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:05:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "196243184635",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:06:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "778988414682",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:06:54"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783318450445",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:07:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164389111",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:07:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961945676",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:08:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799900055",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:08:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "599038637390",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:08:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "781490571606",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:08:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885188259194",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:09:26"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05036905025713",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:09:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961945560",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:10:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04549660825906",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:10:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799541791",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:10:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783719902758",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:11:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "754295924403",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:11:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787926140514",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:12:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "045557175436",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:12:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "683828757389",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:13:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783329706746",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:14:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996193056",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:14:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "745559251717",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:14:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "196243214882",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:14:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735048595",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:14:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509590322",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:15:07"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164890532",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:15:29"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010996112415",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:15:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509362066",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:15:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010994887841",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:16:13"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885171242592",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:16:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164390384",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:16:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "656103121816",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:17:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "043377761341",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:17:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735260058",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:17:57"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735198276",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:17:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509360369",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:18:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "68981024149",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:18:27"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885245492908",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:18:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164173826",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:18:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "645416461696",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:18:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "795418157681",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:19:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660239147",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:19:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726727408",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:19:43"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509799152",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:20:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164893595",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:20:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "696749358146",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:21:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "734548143256",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:21:54"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "785924809860",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:22:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509934911",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:23:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "683498511830",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:23:28"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885473369638",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:23:54"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "027084819250",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:23:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735012466",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:24:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799914533",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:24:32"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509882687",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:24:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "786372964279",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:25:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509502271",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:25:19"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "659213199010",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:25:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "791743407088",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:54:27"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961403275",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:55:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03296580369829",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:55:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961838947",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:55:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "987456432107",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:56:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "810158830837",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:56:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "778988439654",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:56:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799507766",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:56:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735124992",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:56:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787926109375",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:57:02"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164183917",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:57:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "630509658534",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:57:32"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735114696",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:57:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010994116262",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:57:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164166170",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:58:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "050109941971",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:58:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "899998982418",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:58:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "653569254225",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:58:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "111527315383",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:59:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509600007",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:59:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010993904044",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:59:32"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010993701223",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:59:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726430827",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T10:59:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033586032707",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:00:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "027084210231",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:00:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885873132900",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:00:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783149923934",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:00:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799390313",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:01:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4570118204721",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:01:03"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04570118204721",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:01:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799863329",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:01:10"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010994313906",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:02:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164391473",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:02:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164898101",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:02:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04894680036413",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:03:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "193052063779",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:03:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "44952392080",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:04:13"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "778988311325",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:04:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885894929862",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:04:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "681147018938",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:04:37"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4582769912498",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:05:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "599038537805",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:05:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4582769922855",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:05:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735236213",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:05:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "778988278697",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:06:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735181261",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:06:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996166753",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:06:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "680270718722",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:07:22"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04549660825692",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:07:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164387414",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:08:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164387414",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:08:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164390391",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:08:19"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "792491808554",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:09:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "760236281702",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:10:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "799959696272",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:10:21"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "792463037142",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:11:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "789621853492",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:11:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "787926156980",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:11:29"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "799959576925",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:13:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "810158836471",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:13:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509658619",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:13:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04907953720916",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:14:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726441328",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:15:03"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "018697335800",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:15:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735398348",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:15:10"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164161007",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:15:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "615012346635",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:15:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4570118259783",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:16:03"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "03296580824250",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:16:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "077898844672",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:16:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787551606782",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:16:29"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4907953743281",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:16:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164265811",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:16:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "599038543165",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:16:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "745559263956",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:17:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4582769805226",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:17:28"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "798525482288",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:18:57"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "433599002214",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:18:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33170550266",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:19:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033170550266",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:19:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799735466",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:19:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "787926137361",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:19:59"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "882956608871",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:20:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799585368",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:20:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164358568",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:20:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04983164358568",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:20:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "797619834385",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:20:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "786372958803",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:20:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "45557328948",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:21:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "792158708197",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:21:07"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033170509004",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:21:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "790405250543",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:21:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4573102652522",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:21:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509713127",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:21:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010994113698",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:22:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4570118227805",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:22:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164888027",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:22:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8414614777500",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:22:59"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885267368885",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:23:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4573102652546",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:24:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509766567",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:24:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660386155",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:24:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164166378",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:24:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4582769805417",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:24:52"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726715566",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:25:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660426448",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:25:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "745938021610",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:25:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "630509507009",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:26:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "686910252991",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:26:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33170525981",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:26:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4983164191998",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:26:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033586033018",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:26:19"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419336147",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:03"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016468953",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419340793",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "889842999266",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:15"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419334037",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:43"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "775070661924",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419701099",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "653459119689",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:27:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "77345729811",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:28:10"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "715938214107",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:28:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419388177",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:28:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017189666",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:28:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419286190",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:28:43"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "744424685152",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:28:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "775070225416",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:29:02"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419347181",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:29:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "780116969476",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:29:10"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419356008",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:29:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885402745113",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:29:32"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419327374",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:29:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885138803514",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:29:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "780116964563",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "726088183533",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419356169",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017584935",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702017815237",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017815237",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "635346191442",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419322270",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:21"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "610098044154",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:30:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016617801",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:06"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016617801",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:08"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419322348",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419373913",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "878587003253",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419340809",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419341004",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726015253",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:31:53"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885585972245",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:32:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017600833",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:32:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016914528",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:32:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419354646",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:32:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "759218576004",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:32:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "792158494694",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:32:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "006555209554",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:33:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016365443",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:33:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419317443",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:33:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419313896",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:33:43"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "705235380155",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:33:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "057020156088",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:33:53"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "698798065679",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:33:59"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04516793134137",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "899998194200",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:07"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017156057",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885884455500",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "798785861779",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017246277",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419342087",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419357289",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419988629",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "698997959328",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:34:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419373890",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:35:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885757162740",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:35:10"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05051892187633",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:35:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419190527",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:35:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885804060166",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:35:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "793945683734",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:35:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016369878",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:36:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419347266",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:36:20"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4573102553355",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:36:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04573102553355",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:36:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419757010",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:36:52"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "739704053844",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:37:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885926084095",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:37:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "606734192303",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:37:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "789099025919",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:37:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419374071",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:37:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419591430",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:37:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419356039",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:38:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885795215668",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:38:04"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419341011",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:38:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885922736806",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:38:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "067341926437",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:38:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419264440",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:39:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419366281",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:39:04"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016616910",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:39:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885240084702",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:39:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017234410",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:39:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "044968890839",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:39:54"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885117426277",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:39:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016617320",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:40:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885165497243",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:40:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885310360910",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:40:50"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885118926547",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:40:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "743181610247",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "887961719550",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:13"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885969046500",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "47852925686",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961921038",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017416342",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "752785000880",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "713002515785",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:41:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885791921273",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "739704724294",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419359474",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "077346153226",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:29"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "731631020388",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017419725",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "731631020746",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885155325945",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419359429",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:42:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419330442",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:43:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016822465",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:43:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419378703",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:43:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885225964135",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:43:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "726312400214",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:43:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885821135823",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:43:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "44968790177",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "782446174094",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:12"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419358637",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:28"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "715877330678",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419327350",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "04573102609342",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "799783768244",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "734548543643",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:44:52"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017584607",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:45:03"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017415314",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:45:23"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "798762320008",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:45:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016367232",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:45:28"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "725638224429",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:45:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "728295489811",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:46:10"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885126282581",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:46:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419357234",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:46:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419337915",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:46:40"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "33170658870",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:46:46"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "033170658870",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:46:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016369687",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:47:19"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "713002516515",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:47:21"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885303541616",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:47:27"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885836496360",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:48:02"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017589374",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:49:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419898775",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:51:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "728295519792",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:51:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "792158451727",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:51:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419204071",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:53:16"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0050109961962",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:53:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017589275",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:53:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "799969141670",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:53:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017583167",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:54:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419340366",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:55:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "850041649474",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:55:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419377928",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:57:26"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419377928",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:57:27"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017583105",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:57:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961917215",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:57:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "680044315676",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T11:58:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961770445",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:00:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017599496",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:00:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "700315688190",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:05:10"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735227037",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:07:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996125170",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:08:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419339339",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:08:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017583532",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:08:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735107889",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:09:23"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017424927",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:09:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010993732456",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:10:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017582917",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:10:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "604945337766",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:10:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996257857",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:11:09"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017583143",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:12:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735381746",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:13:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509525225",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:13:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419650939",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:15:16"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0194735194698",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:15:19"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735194698",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:15:20"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "899998143130",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:16:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0887961913965",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:18:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885561826180",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T12:20:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0195166142579",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:13:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0714547237132",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:18:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419354646",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:18:58"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419590853",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:20:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735198900",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:21:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016686487",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:27:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0887961833836",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:30:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961833836",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:30:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "741012346785",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:35:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419205481",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:35:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961739466",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:36:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735389995",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:36:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702017189659",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:36:41"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702017600277",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:36:56"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419256513",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:37:31"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016956337",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:37:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419382359",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:40:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419359825",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:40:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "685625632142",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:40:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0074299174506",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:41:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419264433",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:42:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419389860",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:42:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419408141",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:42:18"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419325899",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:42:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509377718",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:43:32"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016616804",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:43:52"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885451935473",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:43:57"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "809787027084",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:44:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0783324720945",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:44:44"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787799912737",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:44:49"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "783329125295",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:45:17"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419000000",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:46:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419260480",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:48:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0792158494694",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:48:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016364309",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:48:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016618259",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:49:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8907758012908",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:49:38"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0630509463909",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:50:00"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885913231099",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:50:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885211397510",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:51:02"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885294794640",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:51:25"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "754295854991",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:52:11"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419339094",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:52:38"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419339391",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:52:43"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419339254",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:53:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0698798065679",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:53:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885101314030",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:53:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1330010654528",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:53:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053750626353",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:53:37"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885946292340",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:53:44"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "077346563094",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:55:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4250350961322",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:56:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702015030427",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:56:59"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509269624",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:58:51"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419325943",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:58:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419342179",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:59:07"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "717353316596",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T14:59:48"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "044984395172",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:00:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885664538089",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:00:38"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0775006813182",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885218822374",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885310360910",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:16"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885425228310",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885842012561",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885891656259",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793167418",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053086232334",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:01:24"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "731631020326",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:02:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509590292",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:02:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885257172102",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:02:42"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419357265",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:03:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702017024547",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:04:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010993715534",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:25:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0789264052535",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:29:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0798527686578",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T15:29:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0794628983677",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:01:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0713733860871",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:01:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0798525508667",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:01:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "2724283956073",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:02:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793144372",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:02:01"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702014733701",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:02:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0033170658870",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:05:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0630509426218",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0630509475902",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0667649483092",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8944143015878",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419788038",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0074994346178",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0785924822982",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787799519172",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0798627328552",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885238328825",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885278824905",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885296345536",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885319948225",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885370867633",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885561037500",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:34"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885876550626",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885902797742",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4513448472453",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:41"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5051723155015",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:44"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885136379271",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885176839278",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885191917227",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885204966334",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:06:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885447001366",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295490305",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885105218396",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885170593817",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885213678082",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885216376756",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885217920590",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885263992756",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885852933184",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5898520393390",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:29"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0062208117003",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0698997806448",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:37"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295492514",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0745559229235",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787718903204",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0792463724172",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6130562103209",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0719040504002",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885123136238",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:07:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885126282581",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885315839183",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885820388145",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885888552885",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793129393",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793204335",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0033170628064",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0111527315383",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0534262168029",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787799238950",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5334998073858",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0084331465417",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419190527",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521412826",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295518290",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885456723723",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0033170461128",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419143738",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793139118",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0088234529214",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:08:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7003040433510",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "9004333800000",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0742309747056",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1259730384112",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0785924556467",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787799008515",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295470949",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295492286",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0736126655649",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0766082220858",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0791068314283",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6953052103080",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8944444172997",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:09:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885381385416",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1330010638818",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793133345",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053750767957",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053750949759",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7123290281690",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0809787028821",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793126385",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521411522",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521411546",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016616439",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0719040515213",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295519365",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289691987",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4513448465356",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6520745043987",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8944444230161",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0698887798846",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0705235380155",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:10:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0722076569211",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:01"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0735259002719",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5052415358530",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5052415417879",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5052616322682",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5052733408078",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053106564346",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053313207418",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5055257727182",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5334998098882",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702014603332",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702014606807",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7123290135863",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7332779856315",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:20"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "9154400032572",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0719040516166",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885279420250",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7123290343015",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7332779825885",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0759455302428",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0763163110985",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0599038637048",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:34"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016909654",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0689960423434",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0899998599852",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:44"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793202805",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053086297661",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053106686185",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053460946345",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5055410051925",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6734191665604",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "9154400097182",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:11:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7341932626122",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0708036065436",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0715938066577",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:14"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0715938903247",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295404340",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:17"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295411164",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295426274",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0761645197851",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793196364",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:23"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521408416",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521408447",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419256681",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0689245828695",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:37"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885248789722",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:42"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885725326488",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0899998175728",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:44"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1320010389254",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1330010735166",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793133284",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5889332811004",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0761315125818",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0797162780924",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289689076",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8856903605253",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:12:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4904880079537",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0534262109756",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787799406977",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0705235382555",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0798525517478",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0899998991564",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053106686192",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5055410052106",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5334999105053",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5334999106012",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7123290342872",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0645416523677",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702015593892",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:13:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0736126489602",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0746550999004",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:01"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521409031",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521409055",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6734192471150",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6900743189199",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6900743189205",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8944444229813",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0517800813612",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:10"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0700304001863",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0787799864401",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0635346191442",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0770504995644",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1330010764715",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793133598",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:20"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793195039",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793219490",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5052615089715",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053106675172",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:28"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053106825034",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:29"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5053750626926",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5054230464427",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5055860519648",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:32"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5334999105039",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:34"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "7123290323239",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8850404076444",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8850213545988",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010994171445",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419153997",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4513448477328",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516790120072",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4562342190048",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:14:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5055379916952",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "9781593955205",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885395582962",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885476301758",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:07"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885896729736",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885908960348",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:09"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0190404673419",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885165497243",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885217352810",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885258346434",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:20"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885814461199",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885852836201",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:24"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "1330010756987",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:25"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793141487",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:26"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "9154401801979",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0501099412984",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:34"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "501099412984",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0739812298854",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0022791906330",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885146440343",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "2289334749351",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5334999175599",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:15:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0783318532332",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0653569098904",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0653569438939",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016368154",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:19"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "9004312900004",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0077344767760",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0715938238134",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0719040510997",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0731631020869",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:58"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0746550682562",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:16:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0769498914977",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:01"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289688659",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5054242391902",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5057065403722",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:05"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521413601",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6007795098230",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:11"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8944444228342",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:12"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0044989898425",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289688543",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793125074",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5051723157507",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:32"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0722532418794",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289688802",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:37"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521409062",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:38"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521412765",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5194521413595",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:42"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6084588458662",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:43"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0728295518207",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:46"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0746550345047",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885173205229",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885214401504",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885323013858",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885342808336",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885353946508",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:55"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885901364037",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:56"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5369802608759",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5898520392874",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:17:59"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8944444226768",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0792491217110",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:04"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0797770342248",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0792736367471",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:13"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0793631767816",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:15"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4439475180638",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:22"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0734548860030",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0746550290385",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:31"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0802607592014",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0809787027008",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:34"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885243804512",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885874133364",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:37"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5870215502485",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:39"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "6841910085428",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:40"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8856907550719",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:41"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0719040514100",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:44"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0764999849254",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:45"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0767485476644",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:47"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885148353078",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:48"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885260789182",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885885097686",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:52"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4106289688406",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:53"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4516793130511",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:54"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "8856912259348",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:18:55"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "027084803358, 086002029706, 400308658567, 400308986240, 810973000453, 835769018634",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:22:50"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0899998982418",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:25:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0686294489310",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:25:29"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885267368885",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:25:33"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0885835350458",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:25:35"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0599038565655",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:25:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0689978665154",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:26:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010993717552",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:36:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735271207",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-01T16:36:57"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010996367983",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T08:53:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4582769865510",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:00:38"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5010993885695",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:05:22"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885362945707",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:06:30"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "746775248949",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:14:14"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "700304159687",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:17:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "787799363409",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:22:36"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735143443",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:25:13"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05010996142665",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:27:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509640126",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:31:36"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726709008",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:34:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726413080",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:36:33"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "740987293117",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:43:27"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726008873",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:49:03"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "787926909005",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:52:26"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "656103099931",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T09:58:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "681326198536",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:02:43"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "191726709053",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:04:38"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "653569098904",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:05:18"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419319515",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:15:35"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419326049",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:16:45"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735000258",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:19:28"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "887961815788",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:19:53"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "885357959252",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:20:00"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419247764",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:21:53"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509322060",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:22:27"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419366021",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:23:06"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "4549660077893",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:23:39"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419359481",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:24:16"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "194735058358",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:24:26"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419358279",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:25:01"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419191555",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:25:21"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0194735244539",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:27:47"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419340618",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:31:51"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0741114147693",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T10:44:49"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702016748635",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T11:41:42"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "05702016173161",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T11:45:30"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0673419267601",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T11:45:40"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "630509754892",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T11:54:05"
+  },
+  {
+    "query_type": "UPC",
+    "identifier": "673419378383",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T11:58:02"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "673419282024",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T12:02:08"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "0630509644919",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T12:07:27"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "5702015589826",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T12:45:01"
+  },
+  {
+    "query_type": "EAN",
+    "identifier": "194735198245",
+    "consecutive_no_matches": 1,
+    "no_exact_match_at": "2026-09-02T13:01:00"
+  }
+]

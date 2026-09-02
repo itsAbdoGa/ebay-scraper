@@ -1,0 +1,20 @@
+# eBay session cookies — never commit
+ebay/data/input/ebay_cookies.txt
+.env
+.env.*
+
+# Browser profiles hold cookies/session data
+**/data/browser/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+~$*
